@@ -1,0 +1,69 @@
+mip_cd,mip_nm,DA,DI,DF,mip_emit
+0191,"Agricultura, inclusive o apoio à agricultura e a pós-colheita",398037,180926.41,217110.59,8617.66013137258
+0192,"Pecuária, inclusive o apoio à pecuária",151959,101821.58,50137.42,49063.9154659395
+0280,Produção florestal; pesca e aquicultura,37870,15970.31,21899.69,1023.30284452579
+0580,Extração de carvão mineral e de minerais não-metálicos,20011,18508.82,1502.18,1331.89172180862
+0680,"Extração de petróleo e gás, inclusive as atividades de apoio",225938,133389.81,92548.19,13551.5121898302
+0791,"Extração de minério de ferro, inclusive beneficiamentos e a aglomeração",92326,19012.07,73313.93,3974.80359849935
+0792,"Extração de minerais metálicos não-ferrosos, inclusive beneficiamentos",18273,8348.02,9924.98,786.686157262078
+1091,"Abate e produtos de carne, inclusive os produtos do laticínio e da pesca",292406,55760.33,236645.67,1553.28739135451
+1092,Fabricação e refino de açúcar,51555,18266.04,33288.96,273.864870971464
+1093,Outros produtos alimentares,324943,103651.14,221291.86,1726.12690850704
+1100,Fabricação de bebidas,78544,34822.88,43721.12,417.232905161141
+1200,Fabricação de produtos do fumo,15694,377.87,15316.13,83.36796207984
+1300,Fabricação de produtos têxteis,54793,32230.29,22562.71,430.18378535557
+1400,Confecção de artefatos do vestuário e acessórios,66432,6018.34,60413.66,521.562411781454
+1500,Fabricação de calçados e de artefatos de couro,43848,4819.24,39028.76,344.253802862976
+1600,Fabricação de produtos da madeira,32687,21496.69,11190.31,58.1761032466474
+1700,"Fabricação de celulose, papel e produtos de papel",109595,60286.67,49308.33,4189.50090889649
+1800,Impressão e reprodução de gravações,21333,20302.5,1030.5,815.499091103507
+1991,Refino de petróleo e coquerias,447501,313249.41,134251.59,16675.0490346884
+1992,Fabricação de biocombustíveis,54637,24543.15,30093.85,2884.07151540536
+2091,"Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros",179506,155632.63,23873.37,3918.9552300074
+2092,"Fabricação de defensivos, desinfestantes, tintas e químicos diversos",88308,73021.69,15286.31,2806.71090815894
+2093,"Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal",50176,10764.23,39411.77,1594.75389010942
+2100,Fabricação de produtos farmoquímicos e farmacêuticos,76244,21079.53,55164.47,2423.27837208033
+2200,Fabricação de produtos de borracha e de material plástico,121217,94589.16,26627.84,215.741203146476
+2300,Fabricação de produtos de minerais não-metálicos,83888,72715.11,11172.89,8539.17121100431
+2491,"Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura",150065,92065.95,57999.05,14509.3333333333
+2492,Metalurgia de metais não-ferosos e a fundição de metais,73148,45006.5,28141.5,2577
+2500,"Fabricação de produtos de metal, exceto máquinas e equipamentos",101954,76935.58,25018.42,181.457045015103
+2600,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",103544,31378.04,72165.96,184.286916345056
+2700,Fabricação de máquinas e equipamentos elétricos,79945,40117.44,39827.56,142.285574511372
+2800,Fabricação de máquinas e equipamentos mecânicos,129313,40650.19,88662.81,230.150409616475
+2991,"Fabricação de automóveis, caminhões e ônibus, exceto peças",187915,9320.02,178594.98,3649.48707256047
+2992,Fabricação de peças e acessórios para veículos automotores,105992,86781.56,19210.44,2058.46491123555
+3000,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",41813,2160.25,39652.75,812.04801620398
+3180,Fabricação de móveis e de produtos de indústrias diversas,75235,19396.4,55838.6,133.90274811887
+3300,"Manutenção, reparação e instalação de máquinas e equipamentos",79968,65272.19,14695.81,61.5702612281469
+3500,"Energia elétrica, gás natural e outras utilidades",323139,220973.34,102165.66,12040.9980536807
+3680,"Água, esgoto e gestão de resíduos",82220,48077.71,34142.29,9047
+4180,Construção,552073,109100.58,442972.42,
+4500,Comércio e reparação de veículos automotores e motocicletas,175093,54634.72,120458.28,134.810446043667
+4680,"Comércio por atacado e a varejo, exceto veículos automotores",1120579,472806.9,647772.1,862.774381712381
+4900,Transporte terrestre,398813,264377.93,134435.07,87708.3516018008
+5000,Transporte aquaviário,23042,15090.68,7951.32,5067.47733300744
+5100,Transporte aéreo,44807,26638.54,18168.46,9854.11235396511
+5280,"Armazenamento, atividades auxiliares dos transportes e correio",138844,95151.03,43692.97,30535.0587112266
+5500,Alojamento,27787,14751.15,13035.85,21.3942182966501
+5600,Alimentação,276938,40481.33,236456.67,842.172282158485
+5800,Edição e edição integrada à impressão,17903,8853.76,9049.24,13.7841685019947
+5980,"Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",43874,41342.69,2531.31,33.7801825870813
+6100,Telecomunicações,166879,65194.23,101684.77,128.486189769557
+6280,Desenvolvimento de sistemas e outros serviços de informação,167410,83372.35,84037.65,128.895025912916
+6480,"Intermediação financeira, seguros e previdência complementar",649009,347272.48,301736.52,499.695549087365
+6800,Atividades imobiliárias,639752,90369.9,549382.1,492.568249315094
+6980,"Atividades jurídicas, contábeis, consultoria e sedes de empresas",228613,196578.12,32034.88,176.01743360032
+7180,"Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",62891,33217.48,29673.52,48.4220600602665
+7380,"Outras atividades profissionais, científicas e técnicas",104820,99721.2,5098.8,80.7047166608439
+7700,Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual,48479,39500.75,8978.25,37.3257389715803
+7880,Outras atividades administrativas e serviços complementares,261715,202741.3,58973.7,201.503863011761
+8000,"Atividades de vigilância, segurança e investigação",43096,42574.63,521.370000000003,33.1811721924797
+8400,"Administração pública, defesa e seguridade social",858764,27118.67,831645.33,661.193525076635
+8591,Educação pública,351095,1494.4,349600.6,270.320764129355
+8592,Educação privada,143437,16052.37,127384.63,110.437344435045
+8691,Saúde pública,202716,418.14,202297.86,156.078394796982
+8692,Saúde privada,302873,36021.26,266851.74,233.192898771415
+9080,"Atividades artísticas, criativas e de espetáculos",40366,7324.22,33041.78,31.0792462576953
+9480,Organizações associativas e outros serviços pessoais,171919,28545.05,143373.95,132.36666841839
+9700,Serviços domésticos,74451,0,74451,
